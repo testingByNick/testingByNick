@@ -37,7 +37,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00ff00"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=8df77b"  />
 </div>
 
 ###
@@ -54,7 +54,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Nick&fontSize=70&fontColor=228B22&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=50&descAlign=50&descAlignY=50&textBg=false&color=00ff00"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Nick&fontSize=70&fontColor=80ff6a&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=50&descAlign=50&descAlignY=50&textBg=false&color=8df77b"  />
 </div>
 
 ###
